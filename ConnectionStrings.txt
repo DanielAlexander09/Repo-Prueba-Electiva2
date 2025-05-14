@@ -1,0 +1,3 @@
+"ConnectionStrings":{
+"AppConnection:"data source= server name; initial catalog= p3; integrate security= true; TrustServerCertification= true"
+}
